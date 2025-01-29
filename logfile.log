@@ -1,0 +1,84 @@
+2025-01-27 13:10:34,665 :INFO :test_formSubmission :firstname
+2025-01-27 13:10:34,914 :INFO :test_formSubmission :lastname
+2025-01-27 13:10:35,430 :INFO :test_formSubmission :message recieved from application�
+Success! The Form has been submitted successfully!.
+2025-01-27 13:10:35,815 :INFO :test_formSubmission :firstname
+2025-01-27 13:10:35,815 :INFO :test_formSubmission :firstname
+2025-01-27 13:10:36,092 :INFO :test_formSubmission :lastname
+2025-01-27 13:10:36,092 :INFO :test_formSubmission :lastname
+2025-01-27 13:10:36,720 :INFO :test_formSubmission :message recieved from application�
+Success! The Form has been submitted successfully!.
+2025-01-27 13:10:36,720 :INFO :test_formSubmission :message recieved from application�
+Success! The Form has been submitted successfully!.
+2025-01-27 13:15:15,670 :INFO :test_formSubmission :firstname
+2025-01-27 13:15:15,910 :INFO :test_formSubmission :lastname
+2025-01-27 13:15:16,346 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 13:15:16,705 :INFO :test_formSubmission :firstname
+2025-01-27 13:15:16,705 :INFO :test_formSubmission :firstname
+2025-01-27 13:15:16,941 :INFO :test_formSubmission :lastname
+2025-01-27 13:15:16,941 :INFO :test_formSubmission :lastname
+2025-01-27 13:15:17,591 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 13:15:17,591 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:44:39,182 :INFO :test_formSubmission :first name isAbhishek
+2025-01-27 14:44:39,321 :INFO :test_formSubmission :last name isPatil
+2025-01-27 14:44:39,666 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:44:39,769 :INFO :test_formSubmission :first name isHarika
+2025-01-27 14:44:39,769 :INFO :test_formSubmission :first name isHarika
+2025-01-27 14:44:39,840 :INFO :test_formSubmission :last name isEdla
+2025-01-27 14:44:39,840 :INFO :test_formSubmission :last name isEdla
+2025-01-27 14:44:40,125 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:44:40,125 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:52:31,716 :INFO :test_formSubmission :first name is:Abhishek
+2025-01-27 14:52:31,856 :INFO :test_formSubmission :last name is:Patil
+2025-01-27 14:52:32,130 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:52:32,222 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 14:52:32,222 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 14:52:32,299 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 14:52:32,299 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 14:52:32,489 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 14:52:32,489 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:13:04,436 :INFO :test_formSubmission :first name is:Abhishek
+2025-01-27 15:13:04,539 :INFO :test_formSubmission :last name is:Patil
+2025-01-27 15:13:04,870 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:13:04,877 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 15:13:04,877 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 15:13:04,996 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 15:13:04,996 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 15:13:05,318 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:13:05,318 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:18:18,427 :INFO :test_formSubmission :first name is:Abhishek
+2025-01-27 15:18:18,597 :INFO :test_formSubmission :last name is:Patil
+2025-01-27 15:18:19,012 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:18:19,184 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 15:18:19,184 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 15:18:19,274 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 15:18:19,274 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 15:18:19,520 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 15:18:19,520 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 16:42:36,331 :INFO :test_formSubmission :first name is:Abhishek
+2025-01-27 16:42:36,484 :INFO :test_formSubmission :last name is:Patil
+2025-01-27 16:42:36,804 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 16:42:36,901 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 16:42:36,901 :INFO :test_formSubmission :first name is:Harika
+2025-01-27 16:42:36,968 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 16:42:36,968 :INFO :test_formSubmission :last name is:Edla
+2025-01-27 16:42:37,243 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
+2025-01-27 16:42:37,243 :INFO :test_formSubmission :message recieved from application×
+Success! The Form has been submitted successfully!.
